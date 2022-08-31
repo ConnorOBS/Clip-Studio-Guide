@@ -69,4 +69,49 @@ I can convert the width and height to inches, to get a better sense of how big t
 > so the image is 27.5 by 36.67 inches. 
 
 That's really big! Especially since the resolution was set to 72 dpi, which is very low. So the image was taking up 1.15mb of file space because it was giant, yet low resolution. I should probably change the resolution on my camera phone to slightly higher, maybe I've been short changing my photos by working in low resolution for everything. 
+---  
+### August 27th, 2022
 
+Started on a new drawing, actually an old drawing that is getting an upgrade.
+A line drawing that I did one fall while I was stressed out from evolution class. 
+I had just watched "The Book of Kells" animated movie, so the patterns are inspired from
+linework and shapes in the animation.
+
+My origianl drawing is the first layer, to help with tracing. I reduced opaqueness to 51%.   
+Found a clip studio paint tips page that clearly explained the [difference between raster and vector layers.](https://tips.clip-studio.com/en-us/articles/532)   
+
+ ***Not sure why this relative file path isn't working. Doesn't work with primary source path, and changing the backslash to forward slashes doesn't change anything. Can I save it to a repository on VSC itself to access locally? Do I need an extension? What preview extension am I using? How do I look that up on VSC?***
+
+![drawing](.../markdown vsc files/jake_forest_original.jpg)
+
+
+Anyway, will use a vector layer to do the linework using the figure tool and subtools.
+Go to window->tool or subtool or tool property. Use brush size 10 for now, can change later since it is a vector layer. Use tools->operations->subtools for operations->object subtool to select the points and move to somewhere else.   
+ Found another article that specifically talks about how to use all the cool features for [vector
+line drawings in clip studio paint.](https://blog.yarsalabs.com/vector-drawing-in-clip-studio-paint/) There are features unique to Clip Studio Paint that Photoshop doesn't have, like drawing with brush tools in vector layers.   
+
+I'm beginning to see how Clip Studio Paint is built for illustration, not for photo editing.  
+
+
+Next I want to create two symmetric circles overlaping like a venn diagram. So I made a circle, lasso tool around it, then copy and pasted it, which made a new layer, then choose the scale/transform button on bar that pops up, moved it over then went to lasso properties and flipped it horizontally. Or skip moving and just flip horizontally.
+I learned this manipulation from a short video on youtube, that explains how to [copy, paste, and flip vector lines or objects.](https://www.youtube.com/watch?v=VDSoP65pgtM)
+
+Continue using this method with different layers, so I can start isolating the main line structures and shapes. Mostly using the figure curve subtool. Pulled down a ruler grid line to check my symmetry. Can already see how my original sturcture was not symmetrical at the bottom right side. 
+
+
+![first screenshot](E:/coding/markdown vsc files/clip_studio_guide images)  
+
+![second screenshot](E:/coding/markdown vsc files/clip_studio_guide images)  
+
+![third screenshot](E:/coding/markdown vsc files/clip_studio_guide images)  
+
+![fourth screenshot](E:/coding/markdown vsc files/clip_studio_guide images)  
+
+![fifth screenshot](E:/coding/markdown vsc files/clip_studio_guide images)  
+
+![sixth screenshot](E:/coding/markdown vsc files/clip_studio_guide images)  
+
+
+August 28th, 2022
+
+Jake the Face in the Forest continues. Went back into individual layer sets to erase vector lines that overlapped too much. Took a few more screenshots to show the basic structure is now done. I don't want to permanently collapse all the layers, instead I'll figure out if I can temporarly collapse the vector layers, or just export this as one layer to start playing with. 
