@@ -96,22 +96,24 @@ I'm beginning to see how Clip Studio Paint is built for illustration, not for ph
 Next I want to create two symmetric circles overlaping like a venn diagram. So I made a circle, lasso tool around it, then copy and pasted it, which made a new layer, then choose the scale/transform button on bar that pops up, moved it over then went to lasso properties and flipped it horizontally. Or skip moving and just flip horizontally.
 I learned this manipulation from a short video on youtube, that explains how to [copy, paste, and flip vector lines or objects.](https://www.youtube.com/watch?v=VDSoP65pgtM)
 
-Continue using this method with different layers, so I can start isolating the main line structures and shapes. Mostly using the figure curve subtool. Pulled down a ruler grid line to check my symmetry. Can already see how my original sturcture was not symmetrical at the bottom right side. 
+Continue using this method with different layers, so I can start isolating the main line structures and shapes. Mostly using the figure curve subtool. Pulled down a ruler grid line to check my symmetry. Can already see how my original sturcture was not symmetrical at the bottom right side.
+
+![screenshot4](https://user-images.githubusercontent.com/103965827/187574538-d42b23ec-e058-4ac1-9928-eb23c3557b63.jpg)
 
 
-![first screenshot](E:/coding/markdown vsc files/clip_studio_guide images)  
+![Screenshot1](https://user-images.githubusercontent.com/103965827/187574435-66542df7-3229-4607-9a7c-4757d9fe4995.jpg)
 
-![second screenshot](E:/coding/markdown vsc files/clip_studio_guide images)  
 
-![third screenshot](E:/coding/markdown vsc files/clip_studio_guide images)  
+![Screenshot2](https://user-images.githubusercontent.com/103965827/187574466-c307e2f7-975f-4898-924a-28e214c02889.jpg)
 
-![fourth screenshot](E:/coding/markdown vsc files/clip_studio_guide images)  
 
-![fifth screenshot](E:/coding/markdown vsc files/clip_studio_guide images)  
-
-![sixth screenshot](E:/coding/markdown vsc files/clip_studio_guide images)  
+![Screenshot3](https://user-images.githubusercontent.com/103965827/187574508-90fbdc73-7775-4ed2-80ea-1f2dff5150ca.jpg)
 
 
 August 28th, 2022
 
 Jake the Face in the Forest continues. Went back into individual layer sets to erase vector lines that overlapped too much. Took a few more screenshots to show the basic structure is now done. I don't want to permanently collapse all the layers, instead I'll figure out if I can temporarly collapse the vector layers, or just export this as one layer to start playing with. 
+![screenshot5](https://user-images.githubusercontent.com/103965827/187574566-48d10956-5b40-4777-b8f4-597f062bbd98.jpg)
+
+![screenshot6](https://user-images.githubusercontent.com/103965827/187574575-2b063416-64ab-4d7d-be87-8f51d5b6448d.jpg)
+---
